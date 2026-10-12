@@ -1,6 +1,6 @@
 # Overview
 
-## What is Prediction Markets?
+## What is NostraX Prediction Markets?
 
 A decentralized prediction market platform built on Ethereum that allows users to create markets, place bets on future events, and trade positions. The platform combines blockchain transparency with an intuitive user experience.
 
